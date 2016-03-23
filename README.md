@@ -1,2 +1,3 @@
-# web_top
-web_ junior
+# web_top是repository的名字
+这是初步学习web相关开发技术时建立的一个资源库，用于存放学习心得。
+2016年03月23日
